@@ -6,7 +6,7 @@ pipeline {
         DOCKERHUB_USER = "vsvdockerhub"
     }
 
-//    stages {
+    stages {
 //    stage('Checkout') {
   //          steps {
    //             git 'https://github.com/Vaishu-hub6395/python_demo_app.git'
